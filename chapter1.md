@@ -1,3 +1,24 @@
-# First Chapter
+# 如何使用gitbook
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+### 注册
+
+1. 注册gitbook账号，注册地址：[https://www.gitbook.com](https://www.gitbook.com)
+1. 找maxliu添加编辑权限
+
+### 编辑界面
+
+web端编辑页面：
+
+![](/assets/editor.png)
+
+windows端编辑器（[下载地址](https://www.gitbook.com/editor)），界面：
+
+### 目录结构
+
+添加子目录，右键点击"目录结构例子主页"，点击"Add Article"添加子目录
+
+![](/assets/子目录.png)
+
+子目录还可以继续添加子目录，操作同上，右键点击子目录，添加它的子目录
+
+![](/assets/子目录2.png)
