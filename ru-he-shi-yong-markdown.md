@@ -2,9 +2,9 @@
 
 ## 基本教程
 
-快速入门：http://www.appinn.com/markdown/basic.html
-完整语法：http://www.appinn.com/markdown/
-在线编辑器：http://mahua.jser.me/
+- 快速入门：http://www.appinn.com/markdown/basic.html
+- 完整语法：http://www.appinn.com/markdown/
+- 在线编辑器：http://mahua.jser.me/
 
 ## 展示
 
