@@ -13,6 +13,8 @@ web端编辑页面：
 
 windows端编辑器（[下载地址](https://www.gitbook.com/editor)），界面：
 
+![](/assets/windows-editor.png)
+
 ### 目录结构
 
 添加子目录，右键点击"目录结构例子主页"，点击"Add Article"添加子目录
