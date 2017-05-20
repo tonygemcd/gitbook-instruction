@@ -5,6 +5,6 @@
 * [如何使用markdown](ru-he-shi-yong-markdown.md)
 * [目录结构例子主页](mu-lu-jie-gou-li-zi.md)
   * [目录结构例子子页1](mu-lu-jie-gou-li-zi/mu-lu-jie-gou-li-zi-zi-ye-1.md)
-  * 目录结构例子子页2
-    * 目录结构例子子页2.1
+  * [目录结构例子子页2](mu-lu-jie-gou-li-zi/mu-lu-jie-gou-li-zi-zi-ye-2.md)
+    * [目录结构例子子页2.1](mu-lu-jie-gou-li-zi/mu-lu-jie-gou-li-zi-zi-ye-2/mu-lu-jie-gou-li-zi-zi-ye-2-1.md)
 
