@@ -1,3 +1,7 @@
-# My Awesome Book
+# gitbook使用指南
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+使用指南包括：
+
+1. 如何使用gitbook
+2. 如何使用markdown
+
