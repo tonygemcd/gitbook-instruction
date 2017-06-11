@@ -1,6 +1,6 @@
 # 如何使用gitbook
 
-### 注册
+### 注册12
 
 1. 注册gitbook账号，注册地址：[https://www.gitbook.com](https://www.gitbook.com)
 2. 找maxliu添加编辑权限
