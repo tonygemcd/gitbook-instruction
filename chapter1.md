@@ -1,9 +1,9 @@
-# 如何使用gitbook
+# 如何使用gitbook233333
 
 ### 注册
 
 1. 注册gitbook账号，注册地址：[https://www.gitbook.com](https://www.gitbook.com)
-1. 找maxliu添加编辑权限
+2. 找maxliu添加编辑权限
 
 ### 编辑界面
 
@@ -24,3 +24,4 @@ windows端编辑器（[下载地址](https://www.gitbook.com/editor)），界面
 子目录还可以继续添加子目录，操作同上，右键点击子目录，添加它的子目录
 
 ![](/assets/子目录2.png)
+
